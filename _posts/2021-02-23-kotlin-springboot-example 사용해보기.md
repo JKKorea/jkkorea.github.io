@@ -30,7 +30,15 @@ title:  "kotlin-springboot-example 사용해보기"
 
 - entity 설계
 
--  kt 문법
+  - Category
+  - Post
+  - Topic
+
+  
+
+
+
+- kt 문법
 
   -- hashMapOf
 
@@ -45,5 +53,7 @@ title:  "kotlin-springboot-example 사용해보기"
   - @Embeddable
 
   https://velog.io/@conatuseus/JPA-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%ED%83%80%EC%9E%85embedded-type-8ak3ygq8wo
+
+  잘 설계한 ORM 애플리케이션은 매핑한 테이블의 수보다 클래스의 수가 더 많다.
 
 - 스웨거 설정
